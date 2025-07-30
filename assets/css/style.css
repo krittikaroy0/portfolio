@@ -10,14 +10,14 @@
 }
 /* header section start */
 #header{
-    /* background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url(../img/banner.jpg) no-repeat center;
-    background-size: cover; */
-    /* height: 730px; */
+    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url(../img/DSC04316.JPG) no-repeat center;
+    background-size: cover; 
+    height: 900px;
 } 
-.title-block a{
+/* .title-block a{
     transition: .3s;
     margin: 5px 5px;
-}
+} */
 /* header section end */
 /* navbar section start */
 #navbar{
